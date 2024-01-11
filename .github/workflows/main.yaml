@@ -1,12 +1,12 @@
 name: Markdown Build
 
-on: 
+on:
   workflow_dispatch:
   push:
     branches:
       - main
     paths:
-      - '**.md'
+      - "**.md"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -21,22 +21,21 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-    - name: ⬇️ Checkout Repo
-      uses: actions/checkout@v4
+      - name: ⬇️ Checkout Repo
+        uses: actions/checkout@v4
 
-    - name: create file list
-      id: files_list
-      run: echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
+      - name: create file list
+        id: files_list
+        run: echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
 
-    - name: ❇️ Convert Docs
-      uses: docker://pandoc/core:2.9
-      with:
-        args: --standalone --output=resume.html ${{ steps.files_list.outputs.files }} 
+      - name: ❇️ Convert Docs
+        uses: docker://pandoc/core:2.9
+        with:
+          args: --standalone --output=resume.html ${{ steps.files_list.outputs.files }}
 
-    - name: 💾 Commit files
-      uses: stefanzweifel/git-auto-commit-action@v5
-      with:
-        # Optional. Commit message for the created commit.
-        # Defaults to "Apply automatic changes"
-        commit_message: Apply publisher changes
-      
+      - name: 💾 Commit files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # Optional. Commit message for the created commit.
+          # Defaults to "Apply automatic changes"
+          commit_message: Apply publisher changes
