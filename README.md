@@ -54,22 +54,6 @@ I am a builder and fixer, forging highly capable and effective teams while bring
 - Architected and kicked off the program to build enterprise data lake using Tableau on top of MS SQL Server Enterprise.
 - Oversaw the technical aspects for Marketing's $3M digital transformation project, resulting in a new web presence that provided a real-time, data-driven e-commerce experience for new home shopping.
 
-### BOOK PUBLISHER, ADZO Publishing, Calgary AB
-
-*January 2014 – December 2019*
-
-- Worked with the author to produce 12 books in just 5 years, selling approximately 25,000 copies and achieving direct vendor status with Chapters Indigo and United Library Services.
-- Created all publishing and marketing materials including web design, graphic design, book cover design, and typesetting using Adobe Illustrator and Scrivener.
-- Coordinated publishing schedules, pricing, logistics, and contracts for various formats with multiple vendors worldwide, and managed author events and in-person sales.
-- Handled bookkeeping and office management tasks such as filing taxes, managing finances, and maintaining communication with partners, libraries, and government agencies.
-
-### BOARD DIRECTOR VOLUNTEER, PBP Community Association, Calgary AB
-
-*November 2013 - October 2015*
-
-- Collaborated with the board president to address and resolve financial and operational challenges of a distressed society, improving operational efficiency through strategic decision-making.
-- Secured grants and led projects for critical infrastructure improvements, ensuring timely and budget-compliant completion in partnership with the City of Calgary and various contractors.
-
 ### SOLUTION ARCHITECT CONTRACT, Caisse de Depot et Placement, Montreal PQ
 
 *August 2011 - May 2012*
@@ -123,6 +107,32 @@ I am a builder and fixer, forging highly capable and effective teams while bring
 
 *June – December 1998*
 
+
+### BOOK PUBLISHER, ADZO Publishing, Calgary AB
+
+*January 2014 – December 2019*
+
+- Worked with the author to produce 12 books in just 5 years, selling approximately 25,000 copies and achieving direct vendor status with Chapters Indigo and United Library Services.
+- Created all publishing and marketing materials including web design, graphic design, book cover design, and typesetting using Adobe Illustrator and Scrivener.
+- Coordinated publishing schedules, pricing, logistics, and contracts for various formats with multiple vendors worldwide, and managed author events and in-person sales.
+- Handled bookkeeping and office management tasks such as filing taxes, managing finances, and maintaining communication with partners, libraries, and government agencies.
+
+### BOARD DIRECTOR VOLUNTEER, PBP Community Association, Calgary AB
+
+*November 2013 - October 2015*
+
+- Collaborated with the board president to address and resolve financial and operational challenges of a distressed society, improving operational efficiency through strategic decision-making.
+- Secured grants and led projects for critical infrastructure improvements, ensuring timely and budget-compliant completion in partnership with the City of Calgary and various contractors.
+
+## VOLUNTEERING
+
+- Board Director, WCS Parent Fundraising Society (January 2019 – current)
+- School Field Trip Volunteer (Jan-June 2023)
+- Provincial Election Scrutineer (May 2023)
+- APEGA Youth Science Fair, Grade 2 Team Coach (Spring 2020)
+- Board Director, Communications, PBP Community (2014-2016)
+- Lakeshore Girl Guides, Robots Coach & Website builder (March 2010)
+
 ## SKILLS
 
 ### Enterprise Architecture
@@ -163,14 +173,7 @@ I am a builder and fixer, forging highly capable and effective teams while bring
 - APEGA Youth Science Fair, Grade 2 Team Coach (Spring 2020)
 - Board Director, Communications, PBP Community (2014-2016)
 - Lakeshore Girl Guides, Robots Coach & Website builder (March 2010)
-
-## CERTIFICATIONS
-
-- LinkedIn Learning – AI Courses (November - December 2023)
-- AWS Certified Cloud Practitioner (January 2019)
-- Gartner Symposium on Ai & Machine Learning (October 2017)
-- Microsoft Certified Professional Developer, Enterprise Apps (January 2004)
-
+- 
 ## APPS & PUBLICATIONS
 
 - [Math-Practice.app](https://Math-Practice.app)
@@ -178,7 +181,15 @@ I am a builder and fixer, forging highly capable and effective teams while bring
 
 ## EDUCATION
 
+### CERTIFICATIONS and COURSES
+
+- LinkedIn Learning – AI Courses (November - December 2023)
+- AWS Certified Cloud Practitioner (January 2019)
+- Gartner Symposium on Ai & Machine Learning (October 2017)
+- Microsoft Certified Professional Developer, Enterprise Apps (January 2004)
+  
 ### Honours B.A.Sc. Engineering
 
 **University of Waterloo, Waterloo ON**
 *September 1993 - May 1998*
+

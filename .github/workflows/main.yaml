@@ -24,14 +24,13 @@ jobs:
       - name: ⬇️ Checkout Repo
         uses: actions/checkout@v4
 
-      - name: create file list
-        id: files_list
-        run: echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
+      - name: Concat individual files
+        run: rm -f README.md && for f in src/*.md; do (cat "${f}"; echo ;) >> README.md; done
 
       - name: ❇️ Convert Docs
         uses: docker://pandoc/core:2.9
         with:
-          args: --standalone --output=resume.html ${{ steps.files_list.outputs.files }}
+          args: --standalone --output=resume.html README.md
 
       - name: 💾 Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
