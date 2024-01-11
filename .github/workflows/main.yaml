@@ -1,0 +1,32 @@
+name: Markdown Build
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Fetch all history for .GitInfo and .Lastmod
+
+    - name: Setup Pandoc
+      uses: pascalgn/pandoc-action@v1
+      with:
+        args: "*.md --output=output.html"
+
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -f *.html
+        git commit -m "Automated markdown build" -a || echo "No changes to commit"
+        git push
+
