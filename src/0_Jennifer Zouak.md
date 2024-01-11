@@ -1,6 +1,6 @@
 # JENNIFER ZOUAK
 
-ENGINEER | ARCHITECT | PRODUCT STRATEGIST
+ENGINEERING LEADER | ARCHITECT | PRODUCT STRATEGIST
 
 Contact: +1-587-998-8994  
 Email: [jennifer@zouak.com](mailto:jennifer@zouak.com)  
@@ -9,4 +9,4 @@ LinkedIn: [linkedin.com/in/jenniferzouak](https://linkedin.com/in/jenniferzouak)
 ![Headshot](https://jenniferzouak.github.io/resume/public/JenniferZouak.jpeg)
 ---
 
-I am a creator, builder and fixer, forging highly capable and effective teams while bringing ideas to life with technology. Over the span of my 20+ years, starting in Silicon Valley, through to Microsoft Canada, and Benevity, I’ve learned that success often depends as much on having the skills to find, grow, and coach the right people, as it does on having the best architecture and a solid implementation. I would love to bring that insight to your products and your team culture.
+I am a creator, builder, and fixer of software. I forge highly capable and effective teams while bringing new ideas to life. Over the span of my career, from Silicon Valley, through to Microsoft in Toronto, and then Benevity here in Calgary, I’ve learned that success depends equally on having on the skills to find, grow, and coach the people, as  having the fit-for-purpose architecture and a maintainable implementation.
