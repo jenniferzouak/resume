@@ -30,7 +30,7 @@ jobs:
       - name: ❇️ Convert Docs
         uses: docker://pandoc/core:2.9
         with:
-          args: --standalone --output=docs/resume.html README.md
+          args: --standalone --output=docs/index.html README.md
 
       - name: 💾 Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
