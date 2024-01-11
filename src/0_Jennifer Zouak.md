@@ -6,7 +6,7 @@ Contact: +1-587-998-8994
 Email: [jennifer@zouak.com](mailto:jennifer@zouak.com)  
 LinkedIn: [linkedin.com/in/jenniferzouak](https://linkedin.com/in/jenniferzouak)
 
-![Headshot](https://raw.githubusercontent.com/jenniferzouak/resume/main/public/JenniferZouak.jpeg)
+![Headshot](https://raw.githubusercontent.com/jenniferzouak/resume/main/docs/public/JenniferZouak.jpeg)
 
 ---
 
