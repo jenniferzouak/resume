@@ -25,16 +25,13 @@ jobs:
       uses: actions/checkout@v4
 
     - name: create file list
-          id: files_list
-          run: |
-            # this will also include README.md
-            echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
+      id: files_list
+      run: echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
 
     - name: ❇️ Convert Docs
       uses: docker://pandoc/core:2.9
       with:
-        args: --standalone --output=resume.html ${{ steps.files_list.outputs.files }}
-          
+        args: --standalone --output=resume.html ${{ steps.files_list.outputs.files }} 
 
     - name: 💾 Commit files
       uses: stefanzweifel/git-auto-commit-action@v5
