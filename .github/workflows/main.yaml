@@ -16,18 +16,20 @@ permissions:
   contents: write
 
 jobs:
-  build:
-    name: Publish
+  convert_via_pandoc:
     runs-on: ubuntu-latest
 
     steps:
     - name: ⬇️ Checkout Repo
       uses: actions/checkout@v4
 
-    - name: Setup Pandoc
-      uses: pascalgn/pandoc-action@v1
+    - name Convert Docs
+      uses: docker://pandoc/core:2.9
       with:
-        args: "-s --toc *.md --o resume.html"
+        args:  >-  # allows you to break string into multiple lines
+        --standalone
+        --o resume.html 
+        *.md 
 
     - name: Commit files
       uses: stefanzweifel/git-auto-commit-action@v5
