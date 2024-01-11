@@ -2,9 +2,11 @@
 
 ENGINEERING LEADER | ARCHITECT | PRODUCT STRATEGIST
 
-Contact: +1-587-998-8994  
++1-587-998-8994  
 Email: [jennifer@zouak.com](mailto:jennifer@zouak.com)  
 LinkedIn: [linkedin.com/in/jenniferzouak](https://linkedin.com/in/jenniferzouak)
+Detailed Resume: [jenniferzouak.github.io/resume/](https://jenniferzouak.github.io/resume/)
+Portfolio: [Math-Practice.app](https://Math-Practice.app)
 
 ![Headshot](https://jenniferzouak.github.io/resume/public/JenniferZouak.jpeg)
 ---
