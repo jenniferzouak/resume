@@ -1,6 +1,7 @@
 name: Markdown Build
 
-on:
+on: 
+  workflow_dispatch:
   push:
     branches:
       - main
