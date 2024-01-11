@@ -23,7 +23,7 @@ jobs:
     - name: ⬇️ Checkout Repo
       uses: actions/checkout@v4
 
-    - name Convert Docs
+    - name: ❇️ Convert Docs
       uses: docker://pandoc/core:2.9
       with:
         args:  >-  # allows you to break string into multiple lines
@@ -31,7 +31,7 @@ jobs:
         --o resume.html 
         *.md 
 
-    - name: Commit files
+    - name: 💾 Commit files
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         # Optional. Commit message for the created commit.
