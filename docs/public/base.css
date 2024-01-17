@@ -1,0 +1,103 @@
+/* Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, figure, figcaption, blockquote, dl, dd {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set basic typography and color */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Spacing for basic elements */
+h1, h2, h3, h4, h5, h6, p, ul, ol, dl, figure, blockquote {
+    margin-bottom: 1em;
+}
+
+/* Heading styles */
+h1, h2 {
+    line-height: 1.2;
+    margin-top: 3em;
+    text-align: center;
+}
+
+/* Heading styles */
+ h3, h4, h5, h6 {
+    line-height: 1.2;
+    margin-top: 2em;
+    text-align: left;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+/* Link styles */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* List styles */
+ul, ol {
+    padding-left: 20px;
+}
+
+/* Image and figure styles */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+figure {
+    margin-bottom: 1em;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 0.875em;
+    text-align: center;
+}
+
+/* Blockquote styles */
+blockquote {
+    border-left: 3px solid #0077cc;
+    padding-left: 20px;
+    font-style: italic;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* Utility classes for padding and margin */
+.padding {
+    padding: 20px;
+}
+
+.margin {
+    margin: 20px;
+}
+
+/* Responsive container for wrapping content */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}

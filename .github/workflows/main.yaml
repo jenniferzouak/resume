@@ -30,7 +30,7 @@ jobs:
       - name: ❇️ Convert Docs
         uses: docker://pandoc/core:2.9
         with:
-          args: --standalone --output=docs/index.html README.md
+          args: --standalone --output=docs/index.html --css=./public/base.css --metadata title="Jennifer Zouak | Director of Engineering | Resume" README.md
 
       - name: 💾 Commit files
         uses: stefanzweifel/git-auto-commit-action@v5

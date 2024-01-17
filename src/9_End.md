@@ -1,4 +1,5 @@
-## APPS & PUBLICATIONS
+
+## APPS and PUBLICATIONS
 
 - [Math-Practice.app](https://Math-Practice.app)
 - [LinkedIn Articles](https://www.linkedin.com/in/jenniferzouak/recent-activity/articles/)
