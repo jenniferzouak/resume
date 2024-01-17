@@ -1,7 +1,6 @@
-# JENNIFER ZOUAK
+## ENGINEERING LEADER | ARCHITECT | PRODUCT STRATEGIST
 
-ENGINEERING LEADER | ARCHITECT | PRODUCT STRATEGIST
-
+### Contact:
 +1-587-998-8994  
 Email: [jennifer@zouak.com](mailto:jennifer@zouak.com)  
 LinkedIn: [linkedin.com/in/jenniferzouak](https://linkedin.com/in/jenniferzouak)
