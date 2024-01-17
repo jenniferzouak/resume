@@ -177,7 +177,8 @@ I am a creator, builder, and fixer of software. I forge highly capable and effec
 - Board Director, Communications, PBP Community (2014-2016)
 - Lakeshore Girl Guides, Robots Coach & Website builder (March 2010)
 - 
-## APPS & PUBLICATIONS
+
+## APPS and PUBLICATIONS
 
 - [Math-Practice.app](https://Math-Practice.app)
 - [LinkedIn Articles](https://www.linkedin.com/in/jenniferzouak/recent-activity/articles/)
