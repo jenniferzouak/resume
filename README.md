@@ -1,7 +1,6 @@
-# JENNIFER ZOUAK
+## ENGINEERING LEADER | ARCHITECT | PRODUCT STRATEGIST
 
-ENGINEERING LEADER | ARCHITECT | PRODUCT STRATEGIST
-
+### Contact:
 +1-587-998-8994  
 Email: [jennifer@zouak.com](mailto:jennifer@zouak.com)  
 LinkedIn: [linkedin.com/in/jenniferzouak](https://linkedin.com/in/jenniferzouak)
@@ -176,8 +175,9 @@ I am a creator, builder, and fixer of software. I forge highly capable and effec
 - APEGA Youth Science Fair, Grade 2 Team Coach (Spring 2020)
 - Board Director, Communications, PBP Community (2014-2016)
 - Lakeshore Girl Guides, Robots Coach & Website builder (March 2010)
-- 
-## APPS & PUBLICATIONS
+
+
+## APPS and PUBLICATIONS
 
 - [Math-Practice.app](https://Math-Practice.app)
 - [LinkedIn Articles](https://www.linkedin.com/in/jenniferzouak/recent-activity/articles/)
